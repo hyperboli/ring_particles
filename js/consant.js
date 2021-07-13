@@ -18,23 +18,11 @@ var OnePix = 5
 //ОТСЕКИ
 
 // #1
-var WidthCmp001 = 32;
-var HeightCmp001 = 32;
+var WidthCmp001 = 19;
+var HeightCmp001 = 39;
 
 // #2
-var WidthCmp002 = 40;
-var HeightCmp002 = 70;
+var WidthCmp002 = 133;
+var HeightCmp002 = 63;
 
 
-
-//главная секция управления #1
-var MainCmpWidth = 200;
-var MainCmpHeight = 100;
-
-//секция солнечных батарей #2
-var SunCmpWidth = 300;
-var SunCmpHeight = SunCmpWidth*0.5048;
-
-//секция питания #3
-var EatCmpWidth = 200;
-var EatCmpHeight = EatCmpWidth*0.7856;

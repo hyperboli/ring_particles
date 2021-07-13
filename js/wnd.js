@@ -27,6 +27,8 @@ Wnd.prototype.draw = function(ctx){
     ctx.lineTo(this.w/2, this.h);  
     ctx.stroke();          
 
+    ctx.translate(0.5, 0.5);
+
     //параметры камеры
     var cx = this.camera.x;
     var cy = this.camera.y;
